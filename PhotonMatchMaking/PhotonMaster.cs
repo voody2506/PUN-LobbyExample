@@ -13,6 +13,7 @@ public class PhotonMaster : MonoBehaviourPunCallbacks
   public InputField serverName;
   private bool connected = false;
 
+  public string NextScene;
   // Start is called before the first frame update
   void Start()
   {
@@ -114,7 +115,7 @@ public class PhotonMaster : MonoBehaviourPunCallbacks
       Debug.LogError("PhotonNetwork : Trying to Load a level but we are not the master Client");
     }
     Debug.LogFormat("PhotonNetwork : Loading Level : {0}", PhotonNetwork.CurrentRoom.PlayerCount);
-    PhotonNetwork.LoadLevel("GamePlayScene");
+    PhotonNetwork.LoadLevel(NextScene);
   }
 
 
