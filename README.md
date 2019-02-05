@@ -1,1 +1,1 @@
-# Photon 2.0 Basic Setup
+# PUN2.0 - Lobby Example
