@@ -12,8 +12,8 @@ Tested on Unity 2018.3 and PUN 2.0 (ver 2.6)
 
 # Usage:
 1. Copy **PhotonMaster.cs** from PhotonMatch folder to your Asset/Scripts folder
-2. Add this script to GameObject and Connect Text and InputField from your Scene.
-3. Create and Connect buttons to ConnectRandom() and ConnectByName() public functions.
+2. Add this script to GameObject and Connect all references.
+3. Create and Connect buttons to ConnectRandom() and ConnectByName() public functions (You Can choose what need to you).
 4. Add PhotonView Component to GameObject
 5. Enjoy it!
 
