@@ -13,4 +13,4 @@ Tested on Unity 2018.3 and PUN 2.0 (ver 2.6)
 4. Add PhotonView Component to GameObject
 5. Enjoy it!
 
-**ExampleProject Folder has Simple Multiplayer Clicker game
+**ExampleProject Folder has Simple Multiplayer Clicker game**
