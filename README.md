@@ -2,7 +2,7 @@
 Unity Photon Engine 2.0 (PUN) Lobby Example with **AutoConnect** and **Connect By Name** to the room
 Simple Code and Easy to Use.
 
-![Screenshot](screenshot.png = 400x400)
+![Screenshot](screenshot.png)
 
 
 
