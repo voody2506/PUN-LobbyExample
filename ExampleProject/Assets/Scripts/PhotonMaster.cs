@@ -29,7 +29,7 @@ public class PhotonMaster : MonoBehaviourPunCallbacks
 
     roomOptions.MaxPlayers = 2;
 
-    connectStatus.text = "Connected";
+    connectStatus.text = "Connected to master";
     connectStatus.color = new Color(58.0f/255.0f, 255.0f/255.0f, 4.0f/255.0f);
     connected = true;
 
